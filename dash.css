@@ -1,0 +1,66 @@
+body {
+    font-size: 15pt;
+    background-color: rgb(30, 30, 30)
+}
+.line1 {
+  width: 345px;
+  height: 45px;
+  background-color: black;
+  border-radius: 5px;
+  border-color: white;
+  border-style: groove;
+}
+
+.Smudex {
+  color:white;
+  margin-left: 20%;
+  margin-top: -10%;
+  font-size: 100%;
+}
+
+.Warning {
+  width: 345px;
+  height: 150px;
+color:white;
+  margin-left: 0%;
+  margin-top: 7%;
+  background-color: black;
+  border-radius: 5px;
+  border-color: red;
+  border-style: groove;
+  text-align: center;
+}
+
+.p1 {
+  color: white;
+  font-size: 70%;
+  margin: -30%;
+  margin-left: 10%;
+}
+
+.vip {
+width: 345px;
+height: 45px;
+background-color: black;
+margin-top: 47%;
+border-radius: 5px;
+border-color: gold;
+border-style: groove;
+}
+
+.button1 {
+  background-color: black;
+  border-radius: 7px;
+  border-color: gold;
+  border-style: groove;
+  margin-top: -30%;
+  
+}
+
+.p2 {
+  color: white; 
+  font-size: 75%;
+  margin-top: -17%;
+  margin-left: 5%;
+}
+
